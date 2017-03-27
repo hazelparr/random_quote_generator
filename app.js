@@ -1,6 +1,6 @@
 var fonts = ["Cookie", "Courgette", "Fredoka One", "Great Vibes",
             "Kaushan Script", "Pacifico", "Philosopher", "Playball",
-            "Tangerine", "Vidaloka"]
+            "Vidaloka"]
 
 var bg = ["img-one", "img-two", "img-three", "img-four", "img-five", "img-six"]
 
